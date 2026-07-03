@@ -14,3 +14,5 @@ st.markdown(
 
 )
 st.write("This App is used for small kids")
+if st.button("Click Me"):
+ st.switch_page("pages/Apage.py")
